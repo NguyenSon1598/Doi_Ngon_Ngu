@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">thu4ngay18</string>
+
+    <string name="wellcome">Bienvenue</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="login">S\ identifier</string>
+    <string name="signup">Vous n\avez pas de compte? S\ inscrire</string>
+    <string name="changelang">Changer de langue</string>
+</resources>

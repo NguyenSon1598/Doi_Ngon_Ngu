@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">thu4ngay18</string>
+    <string name="wellcome">Wellcome</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Do not have account? Sign up</string>
+    <string name="changelang">Change Language</string>
+</resources>

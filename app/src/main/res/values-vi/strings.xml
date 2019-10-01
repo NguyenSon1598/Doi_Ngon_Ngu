@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">thu4ngay18</string>
+    <string name="wellcome">Chào mừng bạn</string>
+    <string name="email">E-mail</string>
+    <string name="password">Mật khẩu</string>
+    <string name="login">Đăng Nhập</string>
+    <string name="signup">Bạn không có tải khoản? Đăng ký</string>
+    <string name="changelang">Thay đổi ngôn ngữ</string>
+</resources>
